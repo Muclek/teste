@@ -5,5 +5,6 @@ O meu primeiro projeto no git.
 
 int main() {
 	printf("O meu primeiro projeto no git.\n");
+	printf("A minha primeira alteração no git.\n");
 	return 0;
 }
